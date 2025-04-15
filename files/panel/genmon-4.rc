@@ -1,0 +1,5 @@
+Command=/usr/bin/bash -c "~/.config/scripts/ethstatus.sh"
+UseLabel=0
+Text=(eth0)
+UpdatePeriod=2000
+Font=Hack Nerd Font Bold 11
