@@ -35,7 +35,7 @@ cd autoDeploy; chmod +x autoDeploy.sh
                                                               | ▓▓                  \▓▓    ▓▓
                                                                \▓▓                   \▓▓▓▓▓▓ 
 
-         Script para personalizar el entorno de trabajo de Kali Linux .:.:. By @ghostnetw-alias 3l-h4ck3r .:.:. 
+         Script para personalizar el entorno de trabajo de Kali Linux .:.:. By @ghostnetw .:.:. 
 
 
 [!] Uso:
