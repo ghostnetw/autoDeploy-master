@@ -115,7 +115,7 @@ function banner(){
     sleep 0.15 && echo -e "\t                                                      | ▓▓                  \▓▓    ▓▓"
     sleep 0.15 && echo -e "\t                                                       \▓▓                   \▓▓▓▓▓▓ "
     echo -e "${Color_Off}"
-	sleep 0.15 && echo -e "\t${On_Blue}${BWhite} Script para personalizar el entorno de trabajo de Kali Linux .:.:. By ${On_Blue}${BYellow}@m4lal0${On_Blue}${BWhite} .:.:. ${Color_Off}\n"
+	sleep 0.15 && echo -e "\t${On_Blue}${BWhite} GhostNetWorks Auto DotFiles ${On_Blue}${BYellow}@Ghostnetw${On_Blue}${BWhite} .:.:. ${Color_Off}\n"
 	tput civis
 }
 
